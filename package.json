@@ -1,5 +1,5 @@
 {
-  "name": "qtumd-rpc",
+  "name": "cc-qtumd-rpc",
   "description": "QTUM Client Library to connect to QTUM Core via RPC",
   "version": "0.0.4",
   "author": {},
